@@ -4,9 +4,20 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 
-![Cristiano GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristiano112715&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiano112715&debug&amp;layout=compact&amp;langs_count=7&amp;theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+<div>
+  <a href="https://github.com/cristiano112715">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=cristiano112715&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano112715&layout=compact&langs_count=7&theme=react" />
 
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
+  
+![Snake animation](https://github.com/cristiano112715/cristiano112715/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=cristiano112715&repo=cristiano112715&theme=react)](https://github.com/cristiano112715/cristiano112715)
 
 
 ## Tecnologias que eu uso no meu dia
