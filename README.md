@@ -17,7 +17,6 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=cristiano112715&repo=cristiano112715&theme=react)](https://github.com/cristiano112715/cristiano112715)
 
 
 ## Tecnologias que eu uso no meu dia
