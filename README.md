@@ -31,7 +31,7 @@
 
 </div><br/>
 
-- Atualmente estudando o bootcamp  Database Experience na DIO.
+- Bootcamp Database Experience na DIO.
 
 ### Database Experience
 
