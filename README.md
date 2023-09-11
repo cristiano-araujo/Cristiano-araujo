@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/cristiano-araujo">
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=cristiano-araujo&show_icons=true&theme=react" />
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-araujo&layout=compact&langs_count=7&theme=react" />
+  <img height="180em"  align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cristiano-araujo&show_icons=true&theme=react" />
+  <img height="180em"  align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cristiano-araujo&layout=compact&langs_count=7&theme=react" />
 </div>
 
 ![Snake animation](https://github.com/cristiano-araujo/cristiano-araujo/blob/output/github-contribution-grid-snake.svg)
